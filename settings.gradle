@@ -1,0 +1,3 @@
+include ':apg-payment'
+include ':app'
+rootProject.name = "LibraryCheck"
